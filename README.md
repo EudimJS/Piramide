@@ -1,5 +1,5 @@
 # Piramide-construcoes
-aprendendo web designe com uso do Bootstrap
+aprendendo web design com uso do Bootstrap
 
 # Site criado do zero com auxílio de aulas pelo toutube em paralelo com as aulas da faculdade
 
